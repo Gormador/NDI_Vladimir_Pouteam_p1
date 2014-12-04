@@ -1,0 +1,9 @@
+Info Tweeter:
+
+	<a class="twitter-timeline"
+  	width="300"
+  	height="500"
+  	href="https://twitter.com/twitterdev"
+  	data-widget-id="YOUR-WIDGET-ID-HERE">
+	Tweets by @twitterdev
+	</a>
