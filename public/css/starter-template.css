@@ -1,0 +1,13 @@
+html {
+	background-color: #CCCCCC;
+}
+
+body {
+	background-color: #D18538;
+  	padding-top: 50px;
+}
+.map {
+	background-color: #DA9D60;
+	padding: 40px 15px;
+	text-align: center;
+}
